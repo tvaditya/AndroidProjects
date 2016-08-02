@@ -1,0 +1,1 @@
+The purpose of this app is to show hot to work with Databses and Android using SQLite in a simple address book example
